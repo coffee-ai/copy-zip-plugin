@@ -1,0 +1,24 @@
+{
+  "name": "copy-zip-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "coffee.ai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffee-ai/copy-zip-plugin"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "webpack-sources": "^1.3.0",
+    "yazl": "^2.5.1"
+  },
+  "devDependencies": {}
+}
